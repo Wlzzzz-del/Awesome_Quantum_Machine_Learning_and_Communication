@@ -10,7 +10,42 @@ If your publications are not included here, please email to <melowlz@yeah.net.>
 
 ## Quantum Communication
 
+### Quantum Network Protocols upon link level
+[1] A Link Layer Protocol for Quantum Networks, SIGCOMM '19: ACM SIGCOMM 2019 Conference.
+
+The autor propose a functional allocation of a quantum network
+stack, and construct the first physical and link layer protocols that
+turn ad-hoc physics experiments producing heralded entanglement
+between quantum processors into a well-defined and robust service.
+
+The code is opensourced in https://github.com/SoftwareQuTech/QLinkLayerSimulations .
+
+### Quantum Multi-parties Entanglement Routing
+[1] Multiparty entanglement routing in quantum networks, Physical Review A, 2023.
+The author proposed a protocol for extracting maximally entangled GHZ States for any numbers of parties in a quantum network.
+The network had been abstracted as a graph state and local operations has been abstracted as Graph Operations.
+
+[2] Improved Routing of Multiparty Entanglement over Quantum Networks, arXiv, 2024.
+
+[3] Distribution and Purification of Entanglement States in Quantum Networks, arXiv 2025.
+
+
+[4] Efficient multiparty entanglement distribution with DODAG-X protocol, 2025.
+
+[5] Multi-Entanglement Routing Design Over Quantum Networks Using Greenberger–Horne–Zeilinger Measurements, IEEE Tran. on Networking, 2025.
+
+
+### Quantum Entanglement Routing Design
+[1] Entanglement Routing Design Over Quantum Networks, IEEE/ACM Trans. on Networking(CCF A), 2024.
+
+[2] DQRA: Deep Quantum Routing Agent for Entanglement Routing in Quantum Networks, IEEE Trans. on Quantum Engineering, 2022.
+
+[3] Opportunistic Routing in Quantum Networks, IEEE INFOCOM, 2022.
+
+[4] A Fast Heuristic Entanglement Distribution Algorithm for Quantum Repeater Chains, IEEE Tran. on Networking, 2024.
+
 ### Quantum Purification Scheduling
+
 [1] On Optimum Entanglement Purification Scheduling  in Quantum Networks, IEEE JSAC 2024(CCF A).
 
 [2] E2E fidelity aware routing and purification for throughput maximization in quantum networks, IEEE INFOCOM 2022(CCF A).
@@ -23,7 +58,12 @@ If your publications are not included here, please email to <melowlz@yeah.net.>
 
 [6] Optimizing practical entanglement distillation, Phys. Rev. A, Gen. Phys., 2018.
 
-[7] From Entanglement Purification Scheduling to Fidelity-Constrained Entanglement Routing, 2024 IEEE 32nd ICNP(CCFB)
+[7] From Entanglement Purification Scheduling to Fidelity-Constrained Entanglement Routing, 2024 IEEE 32nd ICNP(CCF B)
+
+[8] Joint Swapping and Purification with Failures for Entanglement Distribution in Quantum Networks, 2025 IWQoS(CCF B)
+
+[9] Distributed Quantum Routing with Fidelity Assurance in Memory-Free Networks, 2025 WCNC(CCF C)
+
 
 ### Quantum Routing Scheduling
 
