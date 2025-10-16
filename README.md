@@ -1,4 +1,4 @@
-# Awesome_Quantum_Machine_Learning_and_Communication
+# Awesome_Quantum_Communication
 A curated list of Quantum machine learning and Quantum communication publications.
 
 Last Update: 20 Sep 2025,
@@ -64,8 +64,6 @@ The network had been abstracted as a graph state and local operations has been a
 
 [9] Distributed Quantum Routing with Fidelity Assurance in Memory-Free Networks, 2025 WCNC(CCF C)
 
-
-### Quantum Routing Scheduling
 
 
 ### Quantum Distributed Consensus
