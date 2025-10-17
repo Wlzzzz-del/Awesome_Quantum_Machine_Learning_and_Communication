@@ -1,7 +1,7 @@
 # Awesome_Quantum_Communication
 A curated list of Quantum machine learning and Quantum communication publications.
 
-Last Update: 20 Sep 2025,
+Last Update: 17 Oct 2025,
 
 If your publications are not included here, please email to <melowlz@yeah.net.>
 
