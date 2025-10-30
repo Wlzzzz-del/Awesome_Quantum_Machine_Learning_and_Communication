@@ -1,4 +1,4 @@
-# Awesome_Quantum_Communication
+# Awesome_Quantum_Network
 A curated list of Quantum machine learning and Quantum communication publications.
 
 Last Update: 17 Oct 2025,
