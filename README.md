@@ -64,19 +64,19 @@ The network had been abstracted as a graph state and local operations has been a
 
 
 
-[comment]: ### Quantum Distributed Consensus
-[comment]:[1] A closer look at quantum distributed consensus, Proc. 32nd ACM Symp. Parallelism Algorithms Architectures, Jul. 2020.
+[comment]:< ### Quantum Distributed Consensus>
+[comment]:<[1] A closer look at quantum distributed consensus, Proc. 32nd ACM Symp. Parallelism Algorithms Architectures, Jul. 2020.>
 
-[comment]:### Quantum Interface Problem in Quantum Network
-[comment]:These include problems such as information transfer and entanglement between matter quabits on nodes and photons.[1]
+[comment]:<### Quantum Interface Problem in Quantum Network>
+[comment]:<These include problems such as information transfer and entanglement between matter quabits on nodes and photons.[1]>
 
-[comment]:[1] Quantum Communication: From Fundamentals to Recent  Trends, Challenges and Open Problems
+[comment]:<[1] Quantum Communication: From Fundamentals to Recent  Trends, Challenges and Open Problems>
 
-[comment]:### Low Robustness of Quantum Devices
-[comment]:The quantum devices available currently are not sophisticated enough to generate qubits with very high generation rate and to maintain their quantum properties long enough.
+[comment]:<### Low Robustness of Quantum Devices>
+[comment]:<The quantum devices available currently are not sophisticated enough to generate qubits with very high generation rate and to maintain their quantum properties long enough.>
 
-[comment]:### Loss of Entangled States and Quantum Data
-[comment]:The current transport layer protocols discard entangled states and quantum data under congestion.
+[comment]:<### Loss of Entangled States and Quantum Data>
+[comment]:<The current transport layer protocols discard entangled states and quantum data under congestion.>
 
-[comment]:### Advanced Quantum Retransmission Protocols
-[comment]:Existing protocols rerquire two successful transmissions to complete data sharing, even in scenarios without any packet loss.
+[comment]:<### Advanced Quantum Retransmission Protocols>
+[comment]:<Existing protocols rerquire two successful transmissions to complete data sharing, even in scenarios without any packet loss.>
