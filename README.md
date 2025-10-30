@@ -1,7 +1,7 @@
 # Awesome_Quantum_Network
-A curated list of Quantum machine learning and Quantum communication publications.
+A curated list of Quantum Network publications.
 
-Last Update: 17 Oct 2025,
+Last Update: 30 Oct 2025,
 
 If your publications are not included here, please email to <melowlz@yeah.net.>
 
